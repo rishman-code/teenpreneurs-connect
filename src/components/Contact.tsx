@@ -13,7 +13,7 @@ export const Contact = () => {
             <CardContent className="grid gap-6">
               <div>
                 <h3 className="font-semibold mb-2">Email</h3>
-                <p className="text-gray-600">info@teenentrepreneurs.academy</p>
+                <p className="text-gray-600">karina@empowerlaunch.co.uk</p>
               </div>
               <div>
                 <h3 className="font-semibold mb-2">Phone</h3>
