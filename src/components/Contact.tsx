@@ -15,10 +15,6 @@ export const Contact = () => {
                 <h3 className="font-semibold mb-2">Email</h3>
                 <p className="text-gray-600">karina@empowerlaunch.co.uk</p>
               </div>
-              <div>
-                <h3 className="font-semibold mb-2">Phone</h3>
-                <p className="text-gray-600">07821 451646</p>
-              </div>
             </CardContent>
           </Card>
         </div>
